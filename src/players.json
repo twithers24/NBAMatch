@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "name": "Larry Bird",
+      "image": "https://pbs.twimg.com/profile_images/3058184164/1d3b1b037e210da7189ac4819ddbe375.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Steph Curry",
+      "image": "https://thestudenttribune.files.wordpress.com/2015/06/curry.jpg?w=256&h=256&crop=1",
+      "clicked": false
+  
+    },
+    {
+      "id": 3,
+      "name": "James Harden",
+      "image": "https://pbs.twimg.com/profile_images/586886782798671872/yQslkNmB_400x400.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Allen Iverson",
+      "image": "https://pm1.narvii.com/6389/1327dcf9188504e841e793128e65b463e21f8cc6_128.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Michael Jordan",
+      "image": "https://pbs.twimg.com/profile_images/3210831155/bf2cab567d4dd062bed1ca8fda5e1b0f.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Kevin Durant",
+      "image": "https://pbs.twimg.com/profile_images/2858375429/6427b7d1dc6b9f18fcc708eef96b3d9d.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Kobe Bryant",
+      "image": "https://pbs.twimg.com/profile_images/3100103932/35ee080684d3b5565759bf48ff71a685.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Kyrie Irving",
+      "image": "https://pbs.twimg.com/profile_images/702681152298078210/zCHvIe-V_400x400.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Lebron James",
+      "image": "https://pbs.twimg.com/profile_images/3274277403/b7d9ddc8a69526dee0e14ad3b03465e4.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Magic Johnson",
+      "image": "https://pm1.narvii.com/6504/28d3a9fe3ef3ac62e53f5dceeefac37c7606704b_128.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Shaquille O'Neal",
+      "image": "https://pm1.narvii.com/6501/63d8e673d5f55288d8733e2bc32c0b25dab7e3e6_128.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Dwyane Wade",
+      "image": "https://pbs.twimg.com/profile_images/2739945158/822ebfb16b2279beabc574282b44e316.jpeg",
+      "clicked": false
+    }
+  ]
+  

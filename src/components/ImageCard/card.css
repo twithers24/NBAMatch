@@ -1,0 +1,12 @@
+.card{
+    margin-top: 55px;
+    margin-right:100px;
+    height: 200px;
+    width: 200px;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.pic:hover{
+    height: 215px;
+    width: 215px;
+}
